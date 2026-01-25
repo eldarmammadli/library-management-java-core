@@ -1,4 +1,4 @@
-Java Core Library Management System  
+Library Management System  
 Author: Eldar  
 
 Description:  
